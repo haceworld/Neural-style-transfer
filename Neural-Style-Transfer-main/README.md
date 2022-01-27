@@ -6,7 +6,7 @@ Style transfer of an image of a baby dragon and the ship wreckage of the Minotau
 ![images1](result1.jpg)
 
 ***
-Stle transfer of an image of President Obama and my favorite basketball player, Steph Curry, with an image of The Great Wave off Kanagawa
+Style transfer of an image of President Obama and my favorite basketball player, Steph Curry, with an image of The Great Wave off Kanagawa
 ![images1](result2.jpg)
 
 ***
